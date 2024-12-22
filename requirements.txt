@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+matplotlib
+numpy
+keras
+split-folders
+plotext
+lime
+streamlit
+Pillow
